@@ -64,9 +64,7 @@ Package your work as a single zip/folder named `assignment_action_recognition_<y
     
 - Set a random **seed** and print library versions for reproducibility.
     
-- If your classes are imbalanced, consider `class_weight`.
-    
-- If predictions flicker, you may apply simple smoothing (e.g., EMA) before taking `argmax`.
+- Use can use google colab to run the code without running into package issues.
     
 
 **Deadline & submission method:** As announced on the course page. Make sure your zip opens and the notebook runs top to bottom without manual fixes.
